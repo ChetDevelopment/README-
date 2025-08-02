@@ -18,8 +18,7 @@
 <p>
   <a href="https://github.com/ChetDevelopment">
     <img src="https://img.shields.io/badge/GitHub-@ChetDevelopment-333?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://chet2.dev">
+  </a><a href="https://chet2.dev">
     <img src="https://img.shields.io/badge/Website-/chet2-111?style=for-the-badge&logo=web&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/vichet">
