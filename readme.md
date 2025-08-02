@@ -1,0 +1,50 @@
+# ⚡️ ChetDevelopment
+
+
+<p align="center">
+  <img src="image.png" width="100%" height="500px" alt="ChetDevelopment Banner" />
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Full+stack+Development.;Am+VICHET+KON+KHMER)](https://git.io/typing-svg)
+
+## ℹ️ Project info
+[![App](https://camo.githubusercontent.com/583839f811e3457c9f92ed85fa02cd1313b03f06beff5a4994f4d777fdac86b8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7265706f2d73697a652f4361726f6c34322f4361726f6c34323f636f6c6f723d313831373137266c6f676f3d676974687562267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d313831373137) ]()
+[![App](https://camo.githubusercontent.com/517340e74e44df11aa1ae09d7dc4c33e23cb5e7525e6a6da006da34a3283ab30/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f4361726f6c34322f4361726f6c34323f636f6c6f723d313831373137266c6f676f3d676974687562267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d313831373137)]()
+[![App](https://camo.githubusercontent.com/f3a794f24b3fd8a4855530631d447fa641bf5604a7541408b0ca986573cf8906/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f4361726f6c34322f4361726f6c34323f636f6c6f723d313831373137266c6f676f3d676974687562267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d313831373137)]()
+[![App](https://camo.githubusercontent.com/4a8498fad29ddb3ec75522580834ad118b2e312455010c0f57c48253d10c3f31/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f6361726f6c34322f6361726f6c34323f636f6c6f723d463035303332266c6f676f3d676974266c6f676f436f6c6f72267374796c653d666f722d7468652d6261646765)]()
+
+## 👥 How to reach me
+
+<p>
+  <a href="https://github.com/ChetDevelopment">
+    <img src="https://img.shields.io/badge/GitHub-@ChetDevelopment-333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://chet2.dev">
+    <img src="https://img.shields.io/badge/Website-/chet2-111?style=for-the-badge&logo=web&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/vichet">
+    <img src="https://img.shields.io/badge/LinkedIn-/IN/vichet sat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/vichet">
+    <img src="https://img.shields.io/badge/X-@Vichetsat-000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:carol42.helo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Vichetsat@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+## 💡 Languages & Frameworks I code in
+<img src="https://camo.githubusercontent.com/6647554cf19482c32acc6a6a3b8bd68b845fafabd474595e7e92dead3075c3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" width="40" />
+<img src="https://camo.githubusercontent.com/426c1121b29abc64a6b1af1e3aa3091abb38e39c87054720b765af1425c74e7f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" width="40" />
+<img src="https://camo.githubusercontent.com/d1652ce9d9e41d898ea03bd8772e8accb903947dc6bba2a410d76462f7d63d1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" width="40" />
+<img src="https://camo.githubusercontent.com/4eaf7f26830ffa4bc4c4502a24e9be29fa2796208648a805e8f610da811aeb05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" width="40" />
+<img src="https://camo.githubusercontent.com/34a110ef06e3aeed9a1de60ce8099b45eedc5580e1f49cc490c1b28c896b264e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667" width="40" />
+<img src="https://camo.githubusercontent.com/34b891c76d258e4b0ee593443e5cbc2506cdbb7d3cd6bc0e4beffa87a9c1611b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" width="40" />
+<img src="https://camo.githubusercontent.com/d21012299f2ccd4a7d73b13f896b0be91c9e71bb7f0b51f1cbfb783ed6b9f9b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" width="40" />
+<img src="https://camo.githubusercontent.com/92ce1c051262bbe8c329848632e7ce3a5289de4c35182ae3d01ef1655f65c32b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2e737667" width="40" />
+<img src="https://camo.githubusercontent.com/0ea929590df93bba0994077b7c578d9917b27fc059a3c0330135f8b32f582ffe/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d61726b646f776e2f6d61726b646f776e2d6f726967696e616c2e737667" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+
+## 🛠️ Things that help me getting my code done
+
